@@ -1,4 +1,4 @@
-# Web3Wise - AI-Powered Research Hub
+# Web3Wise - AI-Powered Research Hub =>
 
 A comprehensive Web3 research platform powered by Google's Gemini AI that provides real-time, intelligent insights on any Web3 topic.
 
@@ -17,13 +17,6 @@ A comprehensive Web3 research platform powered by Google's Gemini AI that provid
 ```bash
 pnpm install
 ```
-
-### 2. Get Gemini API Key
-
-1. Go to [Google AI Studio](https://makersuite.google.com/app/apikey)
-2. Sign in with your Google account
-3. Click "Create API Key"
-4. Copy your API key
 
 ### 3. Configure Environment Variables
 
