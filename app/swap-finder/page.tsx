@@ -245,7 +245,7 @@ export default function SwapFinderPage() {
                 </div>
               </div>
 
-              {/* Swap Button */}
+              {/* swap button */}
               <motion.button
                 onClick={handleSwap}
                 disabled={isSwapping}
