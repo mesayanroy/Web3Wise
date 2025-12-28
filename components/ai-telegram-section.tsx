@@ -5,7 +5,7 @@ import { MessageCircle, Bot, Zap } from "lucide-react"
 import { useState, useEffect } from "react"
 
 const chatMessages = [
-  { type: "user", message: "What are the best DeFi protocols for yield farming?" },
+  { type: "user", message: "What are the best De-Fi protocols for yield farming?" },
   {
     type: "bot",
     message:
