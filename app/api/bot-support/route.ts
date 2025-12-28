@@ -30,7 +30,7 @@ export async function POST(request: NextRequest) {
         .join('\n') + '\n\n'
     }
 
-    // Create a comprehensive prompt for Web3 bot support
+    // Create a comprehensive prompt for web3 bot support
     const prompt = `
 You are Web3Wise AI, an expert Web3 assistant designed to help users with blockchain, DeFi, NFTs, smart contracts, and all things Web3.
 
